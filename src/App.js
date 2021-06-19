@@ -7,6 +7,7 @@ function App() {
   return (
     <div className="App">
       <h1>Healthy Harvest</h1>
+      <p className="subtitle">Good food on the go</p>
       <div className="container">
         <img src={veggieBowl} />
           <div className="textBox">
