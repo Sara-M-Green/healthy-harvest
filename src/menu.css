@@ -1,0 +1,19 @@
+.menu-header {
+    text-align: center;
+}
+
+.menu-box {
+    width: 80%;
+    border: 2px solid black;
+    margin: auto;
+    background-color: white;
+    /* background-color:  rgba(159, 98, 96, 0.829); */
+    color: rgb(159, 98, 96);
+}
+
+.menu-box p {
+    color: black;
+    margin-top: 7px;
+    margin-right: 1em;
+}
+
